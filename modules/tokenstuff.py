@@ -19,6 +19,7 @@ if not os.path.exists("chromedriver.exe"):
 def loginTool():
     request = requests.Session()
     token = input("Enter Token > ")
+    print(token_banner)
 
     headers = {
         "Authorization": token,

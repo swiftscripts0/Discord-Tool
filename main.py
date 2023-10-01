@@ -36,7 +36,6 @@ def main():
 
     elif option == "3":
         loginTool()
-        print(token_banner)
         ENTR()
         main()
 
