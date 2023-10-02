@@ -1,3 +1,5 @@
+# Made by swift.xyz
+
 from colorama import Fore
 import random
 import requests

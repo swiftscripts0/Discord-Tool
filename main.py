@@ -1,3 +1,5 @@
+# Made by swift.xyz
+
 from modules.webhook import *
 from modules.tokenstuff import *
 
