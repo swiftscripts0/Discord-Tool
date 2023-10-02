@@ -14,7 +14,7 @@ def main():
     # Printing the options available
     print(main_banner)
     option = input()
-    os.system("cls")
+    os.system("cls") 
 
     # First option is the spamming module
     if option == "0":
